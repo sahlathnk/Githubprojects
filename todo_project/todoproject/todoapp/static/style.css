@@ -1,0 +1,32 @@
+.banner{
+    background-color: steelblue;
+    width:100%;
+    height:80px;
+    border-style:outset;
+}
+.banner-text{
+    text-align:center;
+    color:beige;
+}
+body{
+    background-color:lavender;
+}
+form{
+    background-color:white;
+    padding:10px;
+    border-style: solid;
+    border-color:beige;
+}
+
+.form-control{
+    background-color:beige;
+    width:80%;
+}
+.card-body{
+    border-style:solid;
+    border-color:beige;
+}
+.form-group{
+    background-color:beige;
+    width:80%;
+}
